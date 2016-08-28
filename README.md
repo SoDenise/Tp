@@ -1,2 +1,5 @@
 # Tp
-Alumna, Dni, Mail
+Alumna: Alegre Sofia
+Dni: 38.423.034
+E-mail: Sodealegre@gmail.com
+
